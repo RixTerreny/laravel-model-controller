@@ -9,9 +9,9 @@
 </head>
 <body>
     <ul>
-        {{-- @foreach ($movies as $movie )
+        @foreach ($movies as $movie )
             <li>{{$movie -> title}}</li>
-        @endforeach --}}
+        @endforeach
     </ul>
 </body>
 </html>
